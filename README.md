@@ -11,18 +11,20 @@
 
 | Event                                      | Date        | Location             | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-----------------------|--------------------------------------------------------------------------|
+| Voxxed days Thessaloniki                  | Nov 2025    | 🇬🇷 Thessaloniki, Greece | The Future of Angular: Faster, Lighter, Stronger                       |
 | JavaCro 25                                | Oct 2025    | 🇭🇷 Croatia             | AI-Powered Form Wizards: Chat, Click, Done                              |
+| Devoxx Belgium                            | Oct 2025    | 🇧🇪 Antwerpen, Belgium  | - A2A in 30 Minutes: Building Interoperable AI Agents <br>- BOF: Java and JVM lovers in Belgium, let's unite! |
 | Dev2Next                                  | Sep 2025    | 🇺🇸 USA, Colorado       | Bridging the Gap:Full-Stack Development Without the Headache            |
 | Voxxed days Luxembourg                    | Jun 2025    | 🇱🇺 Mondorf-les-Bains, Grand-Duchy of Luxembourg | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 19          |
-| Devoxx Poland 2024                        | Jun 2025    | 🇵🇱 Kraków, Poland       | The Future of Angular: Faster, Lighter, Stronger                        |
-| MakeIT 2025 / JCON OpenBlend Slovenia     | May 2025    | 🇸🇮 Portorož, Slovenia   | - AI-Powered Form Wizards: Chat, Click, Done <br>- Bridging the Gap: Full-Stack Development Without the Headaches   |
+| Devoxx Poland                             | Jun 2025    | 🇵🇱 Kraków, Poland       | The Future of Angular: Faster, Lighter, Stronger                        |
+| MakeIT      / JCON OpenBlend Slovenia     | May 2025    | 🇸🇮 Portorož, Slovenia   | - AI-Powered Form Wizards: Chat, Click, Done <br>- Bridging the Gap: Full-Stack Development Without the Headaches   |
 | GeeCON                                    | May 2025    | 🇵🇱 Kraków, Poland       | Bridging the Gap:Full-Stack Development Without the Headaches           |
-| JCON EUROPE 2025                          | May 2025    | 🇩🇪 Köln, Germany        | AI-Powered Form Wizards: Chat, Click, Done                             |
+| JCON EUROPE                               | May 2025    | 🇩🇪 Köln, Germany        | AI-Powered Form Wizards: Chat, Click, Done                             |
 | Angular Dev France                        | Jan 2025    | 🌐 Online               | The Future of Angular: Faster, Lighter, Stronger                        |
-| IA Data Day - Strasbourg 2025             | April 2025  | 🇫🇷 Strasbourg, France   | RAG to the future : comment garder son IA à jour                        |
+| IA Data Day - Strasbourg                  | April 2025  | 🇫🇷 Strasbourg, France   | RAG to the future : comment garder son IA à jour                        |
 | Devoxx Greece                             | April 2025  | 🇬🇷 Athens, Greece       | A Developer's Tale: Migrating an Angular app from version 10 to 19      |
 | Warsaw IT Days                            | April 2025  | 🇵🇱 Warsaw, Poland       | Bridging the Gap:Full-Stack Development Without the Headaches           |
-| Web Day 2025                              | March 2025  | 🇮🇹 Milan, Italy         | The Future of Angular: Faster, Lighter, Stronger                        |
+| Web Day                                   | March 2025  | 🇮🇹 Milan, Italy         | The Future of Angular: Faster, Lighter, Stronger                        |
 | Voxxed Days Zurich                        | March 2025  | 🇨🇭 Zürich, Switzerland  | The Future of Angular: Faster, Lighter, Stronger                        |
 | DevApp Podcast                            | Jan 2025    | 🌐 Online               | The Future of Angular: Faster, Lighter, Stronger                        |
 | Angular Dev France                        | Jan 2025    | 🌐 Online               | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 18          |
