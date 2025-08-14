@@ -13,7 +13,7 @@
 |-------------------------------------------|-------------|-----------------------|--------------------------------------------------------------------------|
 | Voxxed days Thessaloniki                  | Nov 2025    | 🇬🇷 Thessaloniki, Greece | The Future of Angular: Faster, Lighter, Stronger                       |
 | JavaCro 25                                | Oct 2025    | 🇭🇷 Croatia             | AI-Powered Form Wizards: Chat, Click, Done                              |
-| Devoxx Belgium                            | Oct 2025    | 🇧🇪 Antwerpen, Belgium  | - A2A in 30 Minutes: Building Interoperable AI Agents <br>- BOF: Java and JVM lovers in Belgium, let's unite! |
+| Devoxx Belgium                            | Oct 2025    | 🇧🇪 Antwerpen, Belgium  | - A2A in 30 Minutes: Building Interoperable AI Agents <br>- BOF: Java and JVM lovers in Belgium, let's unite! <br>- AI-Powered Form Wizards: Chat, Click, Done |
 | Dev2Next                                  | Sep 2025    | 🇺🇸 USA, Colorado       | Bridging the Gap:Full-Stack Development Without the Headache            |
 | Voxxed days Luxembourg                    | Jun 2025    | 🇱🇺 Mondorf-les-Bains, Grand-Duchy of Luxembourg | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 19          |
 | Devoxx Poland                             | Jun 2025    | 🇵🇱 Kraków, Poland       | The Future of Angular: Faster, Lighter, Stronger                        |
