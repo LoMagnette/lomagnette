@@ -21,7 +21,7 @@
 | MakeIT      / JCON OpenBlend Slovenia     | May 2025    | 🇸🇮 Portorož, Slovenia   | - AI-Powered Form Wizards: Chat, Click, Done <br>- Bridging the Gap: Full-Stack Development Without the Headaches   |
 | GeeCON                                    | May 2025    | 🇵🇱 Kraków, Poland       | Bridging the Gap:Full-Stack Development Without the Headaches           |
 | JCON EUROPE                               | May 2025    | 🇩🇪 Köln, Germany        | AI-Powered Form Wizards: Chat, Click, Done                              |
-| Angular Dev France                        | Jan 2025    | 🌐 Online               | The Future of Angular: Faster, Lighter, Stronger                        |
+| Angular Dev France                        | May 2025    | 🌐 Online               | The Future of Angular: Faster, Lighter, Stronger                        |
 | IA Data Day - Strasbourg                  | April 2025  | 🇫🇷 Strasbourg, France   | RAG to the future : comment garder son IA à jour                        |
 | Devoxx Greece                             | April 2025  | 🇬🇷 Athens, Greece       | A Developer's Tale: Migrating an Angular app from version 10 to 19      |
 | Warsaw IT Days                            | April 2025  | 🇵🇱 Warsaw, Poland       | Bridging the Gap:Full-Stack Development Without the Headaches           |
