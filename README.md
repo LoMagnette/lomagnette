@@ -12,6 +12,7 @@
 
 | Event                                     | Date        | Location                | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
+| JCON Europe                               | Apr 2026    | 🇩🇪 Köln, Germany        | A2A in 45 Minutes: Building Interoperable AI Agents                      |
 | Voxxed Days Zurich                        | Mar 2026    | 🇨🇭 Zürich, Switzerland  | Finding the Spark: A Career Reset Button.                                |
 | Javaland                                  | Mar 2026    | 🇩🇪 Rust, Germany        | AI-Powered Form Wizards: Chat, Click, Done                               |   
 | Voxxed days Ticino                        | Feb 2026    | 🇨🇭 Lugano, Switzerland  | The Future of Angular: Faster, Lighter, Stronger                         |
