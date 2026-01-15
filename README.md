@@ -14,7 +14,9 @@
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
 | JCON Europe                               | Apr 2026    | 🇩🇪 Köln, Germany        | A2A in 45 Minutes: Building Interoperable AI Agents                      |
 | Voxxed Days Zurich                        | Mar 2026    | 🇨🇭 Zürich, Switzerland  | Finding the Spark: A Career Reset Button.                                |
-| Javaland                                  | Mar 2026    | 🇩🇪 Rust, Germany        | AI-Powered Form Wizards: Chat, Click, Done                               |   
+| Javaland                                  | Mar 2026    | 🇩🇪 Rust, Germany        | AI-Powered Form Wizards: Chat, Click, Done                               |
+| DubJUG                                    | Feb 2026    | 🇮🇪 Dublin, Ireland      | - AI-Powered Form Wizards: Chat, Click, Done <br> - JavaScript (No, Not That One): Modern Automation with Java |
+| BeJUG                                     | Feb 2026    | 🇧🇪 Leuven, Belgium      | Finding the Spark: A Career Reset Button.                                |
 | Voxxed days Ticino                        | Feb 2026    | 🇨🇭 Lugano, Switzerland  | The Future of Angular: Faster, Lighter, Stronger                         |
 | Quarkus Insight                           | Jan 2026    | 🌐 Online               | AI-Powered Form Wizards: Chat, Click, Done                               |
 
@@ -23,7 +25,7 @@
 
 | Event                                     | Date        | Location                | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
-| DevDay                                    | Nov 2025    | 🇧🇪 Mons, Belgium       | The Future of Angular: Faster, Lighter, Stronger                         |
+| DevDay                                    | Nov 2025    | 🇧🇪 Mons, Belgium        | The Future of Angular: Faster, Lighter, Stronger                         |
 | Voxxed days Thessaloniki                  | Nov 2025    | 🇬🇷 Thessaloniki, Greece | The Future of Angular: Faster, Lighter, Stronger                         |
 | JavaCro 25                                | Oct 2025    | 🇭🇷 Croatia              | - AI-Powered Form Wizards: Chat, Click, Done <br> - Opening Roundtable: Software Development in the Age of AI                               |
 | Devoxx Belgium                            | Oct 2025    | 🇧🇪 Antwerpen, Belgium   | - A2A in 30 Minutes: Building Interoperable AI Agents <br>- BOF: Java and JVM lovers in Belgium, let's unite! <br>- AI-Powered Form Wizards: Chat, Click, Done |
