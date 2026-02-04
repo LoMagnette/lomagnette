@@ -12,6 +12,7 @@
 
 | Event                                     | Date        | Location                | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
+| Devoxx UK 2024                            | May 2026     | 🇬🇧 London, UK          | - Building Interoperable AI Agents in 30 Minutes <br> - Java Script (No, Not That One): Modern Automation with Java |
 | JCON Europe                               | Apr 2026    | 🇩🇪 Köln, Germany        | A2A in 45 Minutes: Building Interoperable AI Agents                      |
 | Voxxed Days Zurich                        | Mar 2026    | 🇨🇭 Zürich, Switzerland  | Finding the Spark: A Career Reset Button.                                |
 | Javaland                                  | Mar 2026    | 🇩🇪 Rust, Germany        | AI-Powered Form Wizards: Chat, Click, Done                               |
