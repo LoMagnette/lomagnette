@@ -1,5 +1,6 @@
 # Hi, I’m Loïc Magnette 👨‍💻
-- 👀 I’m interested in software development (Java, Kotlin, Angular, Quarkus) 
+- 📝 I blog about Java, AI and web development at [lomagnette.github.io](https://lomagnette.github.io)
+- 👀 I’m interested in software development (Java, Kotlin, Angular, Quarkus)
 - 🌱 I’m currently playing a lot with AI (like everybody I guess)
 - 🎙️ I'm also a conference speaker mainly speaking about Java, Quarkus, Langchain4j and Angular.
 - 💞️ I’m looking to collaborate on any cool project
@@ -12,10 +13,17 @@
 
 | Event                                     | Date        | Location                | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
+| DevDay                                    | Dec 2026    | 🇧🇪 Mons, Belgium        | Angular sans Zone : quand le futur devient la valeur par défaut          |
+| Devoxx Belgium                            | Oct 2026    | 🇧🇪 Belgium              | - Java Script (No, Not That One): Modern Automation with Java <br>- From AI to Agent: A Field Guide to Agentic Patterns in LangChain4j |
+| JavaCro                                   | Oct 2026    | 🇭🇷 Croatia              | - Java Script (No, Not That One): Modern Automation with Java <br>- From AI to Agent with Langchain4J |
+| Quarkus Club                              | Aug 2026    | 🌐 Online               | From AI to Agent with Langchain4J                                        |
+| Voxxed days Luxembourg                    | Jun 2026    | 🇱🇺 Mondorf-les-Bains, Grand-Duchy of Luxembourg | A2A: Building Interoperable AI Agents               |
+| Devoxx Poland                             | Jun 2026    | 🇵🇱 Kraków, Poland       | Java Script (No, Not That One): Modern Automation with Java              |
 | MakeIT / JCON OpenBlend Slovenia          | May 2026    | 🇸🇮 Portorož, Slovenia   | - A2A in 45 Minutes: Building Interoperable AI Agents <br>- From AI to Agent with Langchain4J|
 | JNation                                   | May 2026    | 🇵🇹 Coimbra, Portugal    | A2A in 50 Minutes: Building Interoperable AI Agents                      |
-| Devoxx UK 2024                            | May 2026    | 🇬🇧 London, UK           | - Building Interoperable AI Agents in 30 Minutes <br>- Java Script (No, Not That One): Modern Automation with Java |
-| Devoxx France 2024                        | Apr 2026    | 🇫🇷 Paris, France        | A2A en 30 Minutes: Construire des agent IA qui communiquent              |
+| Devoxx UK                                 | May 2026    | 🇬🇧 London, UK           | - Building Interoperable AI Agents in 30 Minutes <br>- Java Script (No, Not That One): Modern Automation with Java |
+| Voxxed Days Bucharest                     | Apr 2026    | 🇷🇴 Bucharest, Romania   | Finding the Spark: A Career Reset Button.                                |
+| Devoxx France                             | Apr 2026    | 🇫🇷 Paris, France        | - A2A en 30 Minutes: Construire des agent IA qui communiquent <br>- Retrouver l’étincelle : un "Reboot" de carrière |
 | JCON Europe                               | Apr 2026    | 🇩🇪 Köln, Germany        | A2A in 45 Minutes: Building Interoperable AI Agents                      |
 | Voxxed Days Zurich                        | Mar 2026    | 🇨🇭 Zürich, Switzerland  | Finding the Spark: A Career Reset Button.                                |
 | Javaland                                  | Mar 2026    | 🇩🇪 Rust, Germany        | AI-Powered Form Wizards: Chat, Click, Done                               |
@@ -75,4 +83,3 @@
 | Devoxx Belgium 2023      | Oct 2023     | 🇧🇪 Antwerpen, Belgium   | Unleashing the power of Angular: Navigating the latest releases and transformations            |
 | Voxxed Day Brussels 2023 | May 2023     | 🇧🇪 Brussels, Belgium    |             |
 | DevDay 2023              | Mar 2023     | 🇧🇪 Mons, Belgium        | Angular 13 to 15: A corner stone for Angular developers ?            |
-
