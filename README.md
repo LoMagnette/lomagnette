@@ -14,8 +14,10 @@
 | Event                                     | Date        | Location                | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-------------------------|--------------------------------------------------------------------------|
 | DevDay                                    | Dec 2026    | 🇧🇪 Mons, Belgium        | Angular sans Zone : quand le futur devient la valeur par défaut          |
+| Ya!vaConf 2026                            | Oct 2026    | 🌐 Online               | Java Script (No, Not That One): Modern Automation with Java              |
 | Devoxx Belgium                            | Oct 2026    | 🇧🇪 Belgium              | - Java Script (No, Not That One): Modern Automation with Java <br>- From AI to Agent: A Field Guide to Agentic Patterns in LangChain4j |
 | JavaCro                                   | Oct 2026    | 🇭🇷 Croatia              | - Java Script (No, Not That One): Modern Automation with Java <br>- From AI to Agent with Langchain4J |
+| DevTalks Cluj-Napoca                      | Sep 2026    | 🇷🇴 Cluj-Napoca, Romania | From AI to Agent with Langchain4J                                        |
 | Quarkus Club                              | Aug 2026    | 🌐 Online               | From AI to Agent with Langchain4J                                        |
 | Voxxed days Luxembourg                    | Jun 2026    | 🇱🇺 Mondorf-les-Bains, Grand-Duchy of Luxembourg | A2A: Building Interoperable AI Agents               |
 | Devoxx Poland                             | Jun 2026    | 🇵🇱 Kraków, Poland       | Java Script (No, Not That One): Modern Automation with Java              |
